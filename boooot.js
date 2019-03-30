@@ -259,6 +259,6 @@ msg.author.send("Commands ستاتي " + `  **
 });
 
 
+client.login(process.env.BOT_TOKEN);
 
 
-client.login("NDU2ODgxNDc4MjI0MDUyMjM1.XJ_ehQ.ivaP6tsHlFJzY8Ns9p2INgG_6yU");
