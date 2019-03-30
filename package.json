@@ -2,7 +2,7 @@
   "name": "TraP-BOT",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "bot.js",
+  "main": "boooot.js",
   "scripts": {
     "start": "node bot.js"
   },
