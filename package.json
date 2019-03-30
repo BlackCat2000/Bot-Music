@@ -4,7 +4,7 @@
   "description": "-- AWESOMENESS --",
   "main": "boooot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node boooot.js"
   },
   "dependencies": {
     "ascii-data-table": "^2.1.1",
